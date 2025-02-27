@@ -85,9 +85,7 @@ PUT
 
 Update to-do
 
-DELETE
-
-/api/todos/{id}
+DELETE /api/todos/{id}
 
 Delete to-do
 
