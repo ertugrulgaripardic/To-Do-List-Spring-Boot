@@ -78,7 +78,6 @@ GET
 Get to-do by ID
 
 PUT
-
 /api/todos/{id}
 
 Update to-do - 
