@@ -8,7 +8,7 @@ This is a To-Do List application built with Spring Boot. The project provides a 
 
 Java,
 Spring Boot,
-Spring Data JPA
+Spring Data
 
 H2 Database (in-memory for development)
 
