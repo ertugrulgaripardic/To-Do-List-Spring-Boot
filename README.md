@@ -67,7 +67,7 @@ GET
 Get all to-dos
 
 POST
-/api/todos
+/api/todo
 
 Create a to-do
 
