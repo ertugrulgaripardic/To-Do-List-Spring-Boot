@@ -29,7 +29,7 @@ Maven (build tool
 │   │   └─-─ resources
 │   │       └── application.properties # Configuration
 ├── pom.xml                      # Project dependencies
-└── README.md                     # Project documentation
+└── README.md       
 
 🔧 Setup Instructions
 
