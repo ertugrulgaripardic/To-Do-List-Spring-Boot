@@ -28,7 +28,7 @@ Maven (build tool
 │   │   │       └── service     # Business logic
 │   │   └─-─ resources
 │   │       └── application.properties # Configuration
-├── pom.xml                      # Project dependencies
+├── pom.xml  - # Project dependencies
 └── README.md       
 
 🔧 Setup Instructions
