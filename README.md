@@ -13,7 +13,7 @@ Spring Data
 H2 Database (in-memory for development)
 Lombok (for reducing boilerplate code
 
-Maven (build tool
+Maven (build too
 
 🧩 Project Structure
 
