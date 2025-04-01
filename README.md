@@ -8,7 +8,7 @@ This is a To-Do List application built with Spring Boot. The project provides a 
 
 Java
 Spring Boot
-Spring Data 1
+Spring Data
 
 H2 Database (in-memory for development)
 Lombok - for reducing boilerplate code
