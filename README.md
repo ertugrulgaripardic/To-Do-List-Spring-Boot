@@ -44,7 +44,7 @@ Build the project:
 
 mvn clean install
 
-Run the application:
+Run the application
 
 mvn spring-boot:run
 
