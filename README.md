@@ -72,7 +72,7 @@ Create a to-do
 
 GET
 
-/api/todos/{id}
+api/todos/{id}
 
 Get to-do by ID
 
