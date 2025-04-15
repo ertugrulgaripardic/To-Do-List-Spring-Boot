@@ -7,6 +7,7 @@ This is a To-Do List application built with Spring Boot. The project provides a 
 🚀 Technologies Used
 
 Java
+---
 Spring Boot
 Spring Data
 
