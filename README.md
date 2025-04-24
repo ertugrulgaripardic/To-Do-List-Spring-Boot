@@ -31,7 +31,7 @@ Maven - Build too list
 ├── pom.xml  - # Project dependencies
 └── README.md       
 
-🔧 Setup Instructions
+🔧 Setup Instruction
 
 Clone the repository:
 
