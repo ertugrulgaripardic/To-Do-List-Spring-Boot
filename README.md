@@ -7,7 +7,6 @@ To - Do List - Spring Boot Project
 🚀 Technologies Used
 
 Java
----
 Spring Boot
 Spring Data
 
