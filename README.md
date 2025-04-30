@@ -13,7 +13,7 @@ Spring Data
 Database (in-memory for development)
 Lombok - for reducing boilerplate code
 
-Maven - Build too
+Maven - Build
 🧩 Project Structure
 
 ├── src
