@@ -30,7 +30,7 @@ Maven - Build
 ├── pom.xml  - # Project dependencies
 └── README.md       
 
-🔧 Setup Instruction
+Setup Instruction
 
 Clone the repository:
 
