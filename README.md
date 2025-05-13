@@ -39,7 +39,7 @@ Navigate to the project directory:
 
 cd To-Do-List-Spring-Boot
 
-Build the project:
+Build the project
 
 mvn clean install
 
