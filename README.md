@@ -20,7 +20,7 @@ Maven - Build -
 │   │   ├── java
 │   │   │   └── net.javaguides.todo
 │   │   │       ├── controller  # REST controllers
-│   │   │       ├── dto         # Data Transfer Objects (DTOs)
+│   │   │       ├── dto         # Data Transfer Objects (DTOs)vcv
 │   │   │       ├── entity      # JPA entities
 │   │   │       ├── repository  # Data access layer
 │   │   │       └── service     # Business logic
