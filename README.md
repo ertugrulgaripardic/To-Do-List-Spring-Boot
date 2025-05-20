@@ -89,7 +89,7 @@ Delete to-do
   "completed": false
 }
 
-📢 Acknowledgements
+📢 Acknowledgements --
 
 This project was created by Ertuğrul Garipardıç as part of a learning exercise in Spring Boot and RESTful API development.
 
