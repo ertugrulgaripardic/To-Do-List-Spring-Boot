@@ -24,7 +24,7 @@ Maven - Build -
 │   │   │       ├── entity      # JPA entities
 │   │   │       ├── repository  # Data access layer
 │   │   │       └── service     # Business logic
-│   │   └─-─ resources
+│   │   └── resources
 │   │       └── application.properties # Configuration
 ├── pom.xml  - # Project dependencies
 └── README.md       
