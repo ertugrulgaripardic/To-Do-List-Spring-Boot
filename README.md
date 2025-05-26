@@ -50,11 +50,8 @@ mvn spring-boot:run
 Access the H2 database console:Visit http://localhost:8080/h2-console and use the credentials in application.properties.
 
 🖥️ API Endpoints
-
-HTTP Method
-
+HTTP Metod
 Endpoint
-
 Description
 
 GET
