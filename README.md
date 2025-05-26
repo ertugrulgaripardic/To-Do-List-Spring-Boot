@@ -28,7 +28,7 @@ Maven - Build
 │   │       └── application.properties # Configuration
 ├── pom.xml  - # Project dependencies
 └── README.md       
-
+---
 Setup Instruction
 
 Clone the repository:
